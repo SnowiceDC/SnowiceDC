@@ -1,10 +1,8 @@
-# -Projects-Code-All-The-Things
-
 <img src="./banner.jpg" alt="night" />
 
-<div align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?myquote=If%20it%20weren%27t%20for%20the%20bad%20guys%2C%20the%20good%20guys%20wouldn%27t%20have%20a%20job&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?myquote=If%20it%20weren%27t%20for%20the%20bad%20guys%2C%20the%20good%20guys%20wouldn%27t%20have%20a%20job&type=horizontal&theme=dark">
+</p>
 
 ### About Me
 <p>
