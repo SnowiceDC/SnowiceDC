@@ -34,6 +34,3 @@
     <img height="30" src="https://skillicons.dev/icons?i=neovim,python,rust,bash" />
   </a>
 </div>
-
-### GitHub Stats 📈
-<img src="https://github-readme-stats.vercel.app/api?username=SnowiceDC&show_icons=true&hide=stars&hide_border=true&theme=radical" alt="snowiee" />
