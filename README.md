@@ -31,6 +31,6 @@
   <img height="25" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt=kali/>
   <br>
   <a href="https://skillicons.dev">
-    <img height="30" src="https://skillicons.dev/icons?i=neovim,python,rust,bash" />
+    <img height="30" src="https://skillicons.dev/icons?i=neovim,python,go,rust,bash" />
   </a>
 </div>
